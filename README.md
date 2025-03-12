@@ -5,7 +5,7 @@
 - 🤔 Tentando entender criação de GUI para programas em Python;
 - 💬 Sinta-se a vontade para me perguntar ou conversar comigo;
 - 📫 Meu email profissional é contato@workaires.com.br;
-- 📘 [Currículo](https://drive.google.com/file/d/1vhwR5c4XXCgPt4HQCtQHlfBWr3Uvm-wh/view?usp=sharing);
+- 🌐 [Meu site pessoal](https://workaires.com.br);
 - 💻 [LinkedIn](https://www.linkedin.com/in/workaires)
 
 <div>
