@@ -1,6 +1,6 @@
 ### Olá 👋🏻, me chamo Guilherme!
 
-- 📚 Cursando Análise e Desenvolvimento de Sistemas;
+- 📚 Graduado em Análise e Desenvolvimento de Sistemas;
 - 🌱 Atualmente estou estudando Python, SQL e IA;
 - 🤔 Tentando entender criação de GUI para programas em Python;
 - 💬 Sinta-se a vontade para me perguntar ou conversar comigo;
